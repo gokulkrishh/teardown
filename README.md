@@ -16,6 +16,18 @@ npm install --global surge
  npm install --global teardown
 ```
 
+## Usage
+
+```
+$ teardown --help
+
+  Usage:
+
+  By default teardown will fetch all surge.sh projects.
+
+  Options:
+  surge			Get the list of all surge.sh projects to delete.
+```
 
 #### Todo
 
