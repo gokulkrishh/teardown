@@ -1,6 +1,6 @@
 {
 	"name": "teardown",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Teardown the published project in surge.sh via command line.",
 	"main": "cli.js",
 	"bin": {
