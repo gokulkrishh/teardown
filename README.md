@@ -1,8 +1,8 @@
-# teardown
+# teardown <img src="https://img.shields.io/david/gokulkrishh/teardown.svg?style=popout-square" />
 
 > Teardown the published project in surge.sh via command line.
 
-**Note: You must be logged into surge.sh via command line. Else this cli won't work.**
+##### Note: You must be logged into surge.sh via command line. Else this cli won't work.
 
 ## Dependencies
 
@@ -26,6 +26,7 @@ $ teardown --help
   By default teardown will fetch all surge.sh projects.
 
   Options:
+
   surge			Get the list of all surge.sh projects to delete.
 ```
 
