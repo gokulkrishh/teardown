@@ -28,6 +28,10 @@ $ teardown --help
   Options:
 
     surge			Get the list of all surge.sh projects to delete.
+				
+		Example:
+		
+		  teardown surge
 ```
 
 #### Todo
