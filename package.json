@@ -1,0 +1,40 @@
+{
+	"name": "teardown",
+	"version": "0.0.0",
+	"description": "Teardown the published project in surge.sh via command line.",
+	"main": "cli.js",
+	"bin": {
+		"teardown": "./cli.js"
+	},
+	"repository": "git@github.com:gokulkrishh/teardown.git",
+	"author": {
+		"name": "Gokulakrishnan Kalaikovan",
+		"email": "krishnangokul9@gmail.com"
+	},
+	"license": "MIT",
+	"peerDependencies": {
+		"surge": "^0.20.1"
+	},
+	"dependencies": {
+		"enquirer": "^2.3.0",
+		"meow": "^5.0.0",
+		"ora": "^3.1.0"
+	},
+	"files": [
+		"cli.js"
+	],
+	"engines": {
+		"node": ">=8"
+	},
+	"keywords": [
+		"cli",
+		"website",
+		"teardown",
+		"surge cdn",
+		"cdn",
+		"surge",
+		"surge.sh",
+		"surge teardown",
+		"surge.sh teardown"
+	]
+}
