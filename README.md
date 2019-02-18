@@ -1,4 +1,4 @@
-# teardown <img src="https://img.shields.io/david/gokulkrishh/teardown.svg?style=popout-square" />
+# teardown
 
 > Teardown the published project in surge.sh via command line.
 
