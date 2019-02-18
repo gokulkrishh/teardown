@@ -1,4 +1,4 @@
-# teardown
+# [teardown](https://npmjs.com/package/teardown)
 
 > Teardown the published project in surge.sh via command line.
 
@@ -27,7 +27,7 @@ $ teardown --help
 
   Options:
 
-    surge			Get the list of all surge.sh projects to delete.
+    surge      Get the list of all surge.sh projects to delete.
 				
   Example:
 		
